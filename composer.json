@@ -14,7 +14,7 @@
       "passwords"
     ],
     "autoload": {
-      "files": ["wp-pwd-bcrypt.php"]
+      "files": ["wp-password-bcrypt.php"]
     },
     "require": {
       "php": ">=5.6.0"
